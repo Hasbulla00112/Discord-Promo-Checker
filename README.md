@@ -113,14 +113,6 @@ Format: `code/link | expiration_date`
 
 This tool is for educational purposes only. Users are responsible for ensuring compliance with Discord's Terms of Service.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit Pull Requests or Issues.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Known Limitations
 
 - Proxy quality affects success rate
