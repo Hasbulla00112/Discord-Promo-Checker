@@ -2,6 +2,10 @@
 
 A fast, multi-threaded Python script for checking Discord promotion codes. This tool efficiently validates Discord promotional links and codes, checking their validity and expiration dates while supporting proxy rotation for enhanced reliability.
 
+## Showcase
+
+![image](https://github.com/user-attachments/assets/527bd811-42fb-4ba8-8a1b-668657dffcd2)
+
 ## Features
 
 - 🚀 Multi-threaded checking for high performance
